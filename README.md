@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
+| [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
