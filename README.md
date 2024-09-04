@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
 | [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
