@@ -12,6 +12,6 @@ var intersection = function(nums1, nums2) {
             }
         }
     }
-    let r= new Set(res)
-    return Array.from(r)
+    return [...new Set(res)]
+    
 };
