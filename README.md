@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
