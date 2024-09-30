@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Sabithx/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Counting
