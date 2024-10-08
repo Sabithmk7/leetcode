@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sabithx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabithx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
