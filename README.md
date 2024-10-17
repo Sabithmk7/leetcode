@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Sabithx/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
