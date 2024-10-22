@@ -94,4 +94,5 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sabithx/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Sabithx/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sabithx/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Sabithx/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
