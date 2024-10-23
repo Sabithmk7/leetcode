@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sabithx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Sabithx/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -95,4 +96,8 @@
 | [1827-invalid-tweets](https://github.com/Sabithx/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sabithx/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Sabithx/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sabithx/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
