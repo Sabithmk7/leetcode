@@ -8,6 +8,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
+| [2383-add-two-integers](https://github.com/Sabithx/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
