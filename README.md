@@ -22,10 +22,12 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabithx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sabithx/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
 |  |
 | ------- |
+| [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
 |  |
@@ -70,6 +72,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sabithx/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sabithx/leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
