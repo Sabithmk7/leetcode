@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sabithx/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sabithx/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Sabithx/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sabithx/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Sabithx/leetcode/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sabithx/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
