@@ -28,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Sabithx/leetcode/tree/master/0657-robot-return-to-origin) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
@@ -80,6 +81,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sabithx/leetcode/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/Sabithx/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sabithx/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
