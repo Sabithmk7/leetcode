@@ -11,6 +11,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sabithx/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Sabithx/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabithx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sabithx/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
