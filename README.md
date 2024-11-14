@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sabithx/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Sabithx/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Sabithx/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sabithx/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sabithx/leetcode/tree/master/0657-robot-return-to-origin) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Sabithx/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
