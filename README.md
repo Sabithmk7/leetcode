@@ -8,6 +8,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/Sabithx/leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sabithx/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sabithx/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Sabithx/leetcode/tree/master/2383-add-two-integers) |
