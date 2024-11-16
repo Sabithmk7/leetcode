@@ -8,6 +8,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sabithx/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Sabithx/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Sabithx/leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sabithx/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Sabithx/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -54,6 +55,7 @@
 | [0069-sqrtx](https://github.com/Sabithx/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Sabithx/leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
