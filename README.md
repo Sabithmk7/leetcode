@@ -28,6 +28,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabithx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sabithx/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1944-truncate-sentence](https://github.com/Sabithx/leetcode/tree/master/1944-truncate-sentence) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
@@ -93,6 +94,7 @@
 | [0657-robot-return-to-origin](https://github.com/Sabithx/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sabithx/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1944-truncate-sentence](https://github.com/Sabithx/leetcode/tree/master/1944-truncate-sentence) |
 | [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Counting
 |  |
