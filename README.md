@@ -31,6 +31,7 @@
 | [1944-truncate-sentence](https://github.com/Sabithx/leetcode/tree/master/1944-truncate-sentence) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/Sabithx/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
@@ -86,6 +87,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sabithx/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2756-buy-two-chocolates](https://github.com/Sabithx/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/Sabithx/leetcode/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
