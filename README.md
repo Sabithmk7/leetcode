@@ -31,6 +31,7 @@
 | [1944-truncate-sentence](https://github.com/Sabithx/leetcode/tree/master/1944-truncate-sentence) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sabithx/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/Sabithx/leetcode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/Sabithx/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -58,6 +59,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Sabithx/leetcode/tree/master/0367-valid-perfect-square) |
+| [2634-minimum-common-value](https://github.com/Sabithx/leetcode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0389-find-the-difference](https://github.com/Sabithx/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabithx/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2634-minimum-common-value](https://github.com/Sabithx/leetcode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sabithx/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabithx/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sabithx/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2634-minimum-common-value](https://github.com/Sabithx/leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
