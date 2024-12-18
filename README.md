@@ -33,6 +33,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabithx/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/Sabithx/leetcode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/Sabithx/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sabithx/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/Sabithx/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Sabithx/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Simulation
@@ -103,6 +104,7 @@
 | [0742-to-lower-case](https://github.com/Sabithx/leetcode/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sabithx/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1944-truncate-sentence](https://github.com/Sabithx/leetcode/tree/master/1944-truncate-sentence) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sabithx/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-furthest-point-from-origin](https://github.com/Sabithx/leetcode/tree/master/3019-furthest-point-from-origin) |
 ## Counting
 |  |
